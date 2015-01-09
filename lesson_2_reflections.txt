@@ -1,0 +1,10 @@
+What happend whe you initialize a repository? Why do you need to do it?
+
+When you initialize repository hidden folder named .git is creating containing metadata for version tracking of all files. When git repository is created no commits are created by default. It is partially usefull because meaningfull commit message can be assigned to commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area doesn't necesseraly contain all the files from working directory. This gives more control over each
+commit and allows to make commits logically seperate.
+
+
