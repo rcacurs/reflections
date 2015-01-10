@@ -14,3 +14,7 @@ Each file that fits into particular commit is added seperately to staging area. 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches are helpfull if new experimental feature should be implemented. In this way current working version is preserved end experimental feature can be implemented without any worries that working version will be broken.
+
+How do the diagrams help you visualize the branch structure?
+
+The concept may introduce a lot of elements that are hard to track just by imagination. The diagrams allow to examine comlicated branch structure visually.
