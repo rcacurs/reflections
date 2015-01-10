@@ -5,3 +5,16 @@ When work must be shared with other people. When program is collaborative and in
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because it gives control which version is used whe working with repository. While working with local version of the repository, some change may be introduced in remote repository that break the current modiefied version in local repository, if local version would be updated automatically. This would bring great confusion.
+
+Describe the differences between forks, clones and brances. When would you use one instead of another?
+
+Forks allow us to take make modifications to repositories that we have no 
+permisions for modification. The source repository is not affected by forked 
+repository. Clones are duplicates of repositories. When repository is first
+ cloned it can be considered as clone of the original repository. Also remote
+ repository can be cloned to local machine making a local copy of repository. 
+Branches are different differ to clones in the sense that they are modifications
+of some state of the repository. Forks are used when we want to modify others
+ work but we are not given permission to edi original repository. Clones when
+ we want to synchronize local and remote repositories. Branches are made to
+ make modifications of repository by not affecting working version of the code. 
