@@ -18,3 +18,7 @@ Branches are helpfull if new experimental feature should be implemented. In this
 How do the diagrams help you visualize the branch structure?
 
 The concept may introduce a lot of elements that are hard to track just by imagination. The diagrams allow to examine comlicated branch structure visually.
+
+What is the result of merging two branches together? Why do we represent it int the diagram the way we do?
+
+By merging tow branches together we get one single branch which is combination of the two branches. The diagrams provides with visual representation of brancing and they allow eassily to see wich commits relate to which branch.
