@@ -1,1 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+When work must be shared with other people. When program is collaborative and involves multiple developers, remote repository allows way of sharing code between developers. Also it allows to distrubute code to the end users.
