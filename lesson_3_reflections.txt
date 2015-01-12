@@ -29,4 +29,15 @@ what would be harder?
 
 Most likely that collaboration would be done by sending code via email, or
 trhough shared dropbox folder. In dropbox it would be less work, but it would 
-be less transparent and it would be harder to track conflicting changes. GitHub lthough is harder it is more robust. 
+be less transparent and it would be harder to track conflicting changes. GitHub
+although is harder it is more robust. 
+
+When would you want to make changes in a seperate branch rather than directly in master? What does each approach have?
+
+It is usefull to make changes in seprate branch when working on features that
+may break current master branch. It allows to test new features discretely and
+when features are ready they can be shared with other contributors to get
+feedback and confirmation that they can be included in master branch or current
+working version of the project.
+
+
