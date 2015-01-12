@@ -22,4 +22,11 @@ of some state of the repository. Forks are used when we want to modify others
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows to track changes that are made to the remote repository by other
-contributors since last the last pull. 
+contributors since last the last pull.
+
+How would you collaborate without using Git orGitHub? What would be easier, and
+what would be harder?
+
+Most likely that collaboration would be done by sending code via email, or
+trhough shared dropbox folder. In dropbox it would be less work, but it would 
+be less transparent and it would be harder to track conflicting changes. GitHub lthough is harder it is more robust. 
